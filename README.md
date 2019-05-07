@@ -1,1 +1,1 @@
-# practica-semantica
+# Práctica Semántica
