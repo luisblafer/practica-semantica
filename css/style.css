@@ -1,0 +1,17 @@
+body {
+    width: 960px;
+}
+
+header {
+    border-bottom: 1px solid;
+}
+
+nav {
+    float: left;
+    width: 300px;
+}
+
+main {
+    float: right;
+    width: 610px;
+}
